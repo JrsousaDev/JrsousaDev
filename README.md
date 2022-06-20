@@ -8,7 +8,7 @@ Olá, me chamo Junior Sousa, tenho 19 anos e sou apaixonado por programação e 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/JrsousaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrsousadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsousadev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
