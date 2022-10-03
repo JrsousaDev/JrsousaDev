@@ -38,3 +38,7 @@
 ### Redes Sociais:
   
   [<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaime-j%C3%BAnior-132487212/) [<img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/juniorsousajj/)
+  
+### Portfólio:
+
+🔗 [Portfólio Pessoal](https://juniorsousa.dev.br/)
