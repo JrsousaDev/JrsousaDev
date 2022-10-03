@@ -1,9 +1,10 @@
-### Olá, seja-bem vindo(a), eu me chamo Júnior Sousa 👋
+### 👋 Olá, seja-bem vindo(a), eu me chamo Junior.
 ##
 
 "Os problemas são oportunidades para se mostrar o que sabe." - Duke Ellington
 
-Olá, me chamo Junior Sousa, tenho 19 anos e sou apaixonado por programação e tecnologia, entrei nesse mundo através do Marketing Digital (Do qual é a minha renda principal atualmente) e acabei entrando de cabeça, comecei a estudar e me apaixona mais ainda, comecei a criar meus primeiros projetos bem simples, porém o que virou minha chave, foi buscar problemas reais de parentes e começar a criar sistemas de acordo com as suas necessidades e com isso fui aprendendo boas práticas, novas tecnologias que foi o que me levou a ter meu primeiro emprego full-stack com 6 meses de estudo! A meta é ir além é ajudar empresas a resolverem problemas e seguir ao sucesso!
+- 🙋‍♂️ Desenvolvedor Full-stack Software Enginner, apaixonado por tecnológia e aberto a novos conhecimentos.
+- ☕ Seus problemas serão solucionados com meu café
 
 <br/>
 
