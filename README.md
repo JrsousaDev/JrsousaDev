@@ -5,6 +5,7 @@
 
 - 🙋‍♂️ Desenvolvedor Full-stack Software Enginner, apaixonado por tecnológia e aberto a novos conhecimentos.
 - ☕ Seus problemas serão solucionados com meu café
+- ➡️ Eu atualmente trabalho na @usobewell
 
 <br/>
 
