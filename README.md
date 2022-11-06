@@ -3,7 +3,7 @@
 
 "Os problemas são oportunidades para se mostrar o que sabe." - Duke Ellington
 
-- 🙋‍♂️ Desenvolvedor Full-stack Software Enginner, apaixonado por tecnológia e aberto a novos conhecimentos.
+- 🙋‍♂️ Desenvolvedor Full-stack Software Enginner, apaixonado por tecnologia e aberto a novos conhecimentos.
 - ☕ Seus problemas serão solucionados com meu café
 - ➡️ Eu atualmente trabalho na @usobewell
 
