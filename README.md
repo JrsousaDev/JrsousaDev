@@ -7,8 +7,6 @@
 - ☕ Seus problemas serão solucionados com meu café
 - ➡️ Eu atualmente trabalho na @usobewell
 
-<br/>
-
 ### Tecnologias:
   
 <div style="display: inline_block"><br>
